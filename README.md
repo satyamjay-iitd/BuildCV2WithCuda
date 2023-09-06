@@ -1,4 +1,4 @@
-# RazerBlade14_OpenCVBuild
+# OpenCVBuild
 CUDA: 11.4 CUDNN:8.4.2 GPU: 3080 UBUNTU: 21.10 OpenCV: 4.5.5 GCC/++: 10
 
 # Notes
